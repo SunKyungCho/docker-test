@@ -1,5 +1,4 @@
 
-FROM centos:7
+FROM nginx:lastest
 
-RUN yum install -y nginx
 
